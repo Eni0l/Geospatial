@@ -33,6 +33,7 @@ Utilizing ArcGIS Pro, we created an operational map to visualize the electrical 
 Accurate information was captured and analyzed, updating the database to enhance energy auditing and accountability.
 Meter Implementation: A milestone achievement in our project was the successful deployment of meters for transformers and buildings mitigating energy loss. The energy distribution company can now accurately monitor energy allocation per transformer and manage electrical assets, and consumer information. This includes monitoring electricity consumption rates per building, identifying debtors, and tracing energy losses for accurate energy auditing, load distribution, and loss management.
 
+
 ![image](https://github.com/Eni0l/Geospatial/assets/149200508/fd9c64ee-092e-4a67-bd42-c1af06ec4525) 
 ![image](https://github.com/Eni0l/Geospatial/assets/149200508/1f99bcb0-a4e2-4aa1-93ef-f3e163993035)
 ![image](https://github.com/Eni0l/Geospatial/assets/149200508/76cbe585-9206-49cc-9785-3f74f6e2b9c3)
