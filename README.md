@@ -11,7 +11,8 @@ The aim of this project was to enhance the efficiency, accuracy, and accountabil
 The first goal of the project was to perform a comprehensive geospatial data capture and inventory encompassing the precise geographical locations of all electrical assets both surface and underground infrastructure, along with the precise mapping of streets associated with these assets, while also implementing comprehensive customer data capture to ensure proper alignment of the number of customers and types of buildings per street with their designated transformer. 
 ## Data Segregation:
 the second goal was to implement a comprehensive data segregation process, categorizing customers according to their corresponding transformers. This initiative involved systematically enhancing the customer and billing database to ensure the incorporation of precise and up-to-date information.
-Meter Implementation: the third goal was to implement electricity meters for each building and transformer to prevent energy loss and enhance accountability. Metering allowed for accurate energy allocation and consumption data per transformer and building.
+## Meter Implementation:  
+the third goal was to implement electricity meters for each building and transformer to prevent energy loss and enhance accountability. Metering allowed for accurate energy allocation and consumption data per transformer and building.
 ## My Role in the Project:
 Data Cleansing and Gap Analysis: Our team used ArcGIS Pro's Data Reviewer for automated data validation and rectification to ensure data accuracy, which was crucial for maintaining data integrity and reliability.
 ## Loading Analysis: 
