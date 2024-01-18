@@ -1,4 +1,4 @@
-## Lagos Electric Grid Optimization summary
+## Project summary
  In this project, our goal   was to improve energy efficiency and accountability in Lagos. We addressed   issues like inaccurate energy consumption tracking and illegal tapping of electricity by geographically mapping electrical assets and streets, segregating customer data by transformers, and implementing electricity meters. My role involved data cleansing using ArcGIS Pro's Data Reviewer, load analysis for efficient distribution, and network analysis for infrastructure modeling and optimization. This led to enhanced energy auditing, accountable metering, and better management of electrical assets and consumer information. This project significantly improved energy efficiency and distribution in Lagos
 
 
