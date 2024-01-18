@@ -24,13 +24,9 @@ Meter Implementation: A milestone achievement in our project was the successful 
 
 Some of the maps produced during the course of the project are presented below:
 
-
-
 ![image](https://github.com/Eni0l/Geospatial/assets/149200508/fd9c64ee-092e-4a67-bd42-c1af06ec4525) 
-Figure 1: Electrical assets dataset overlaid on the imagery basemap in Agege
 ![image](https://github.com/Eni0l/Geospatial/assets/149200508/1f99bcb0-a4e2-4aa1-93ef-f3e163993035)
-Figure 2: Electrical assets dataset overlaid on the imagery basemap in Afprint
 ![image](https://github.com/Eni0l/Geospatial/assets/149200508/76cbe585-9206-49cc-9785-3f74f6e2b9c3)
 
-Figure 3: Electrical assets dataset overlaid on the imagery basemap in Books
+
 
